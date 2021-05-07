@@ -1,4 +1,4 @@
-# Calculator
+# Calculadora Simple
 
 Desarrollo de una calculadora simple con Android Studio
 
