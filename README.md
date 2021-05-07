@@ -8,7 +8,7 @@ Desarrollo de una Calculadora simple, con cuatro funciones básicas: "Sumar", "R
 
 ## Creado con:
 
-## * [Android Studio](https://developer.android.com/studio)
+### * [Android Studio](https://developer.android.com/studio)
 
 ## Creado por:
 
