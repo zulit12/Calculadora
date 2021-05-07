@@ -4,7 +4,7 @@ Desarrollo de una calculadora simple con Android Studio
 
 ## Funcionamiento 
 
-Desarrollo de una Calculadora simple, con cuatro funciones básicas: "Sumar", "Restar", "Multiplicar", "Dividir".
+Desarrollo de una calculadora simple, con cuatro funciones básicas: "Sumar", "Restar", "Multiplicar", "Dividir".
 
 ## Creado con:
 
